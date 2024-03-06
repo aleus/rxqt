@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+# Builds
+build*
+
+# Settings
+*.user
